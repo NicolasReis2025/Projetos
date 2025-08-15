@@ -6,6 +6,7 @@ public class Main {
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
 
+        System.out.println(" === GERADOR DE TABUADA === ")
         while(true){
             System.out.println("Digite um numero: [insira -1 para encerrar] ");
             int numero = sc.nextInt();
