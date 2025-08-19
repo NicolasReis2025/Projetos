@@ -1,2 +1,4 @@
-# Nicolas Reis
-Nesse repositório estarei postando meus códigos nas linguagens que estou estudando.
+Olá, eu sou Nicolas
+Sobre mim:
+🎓 Estudante de Engenharia de Software
+💻 Aprendendo Java e Python
